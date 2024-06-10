@@ -1,0 +1,40 @@
+.nav{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    padding-top: 10px;
+}
+ul,li{
+    display: inline;
+    padding-right: 10px;
+    color: gray;
+    cursor: pointer;    
+}
+
+h2{
+    color: white;
+    background-color: black;
+    display: inline;
+    cursor: pointer;
+    
+}
+.box{
+    border-width:2px ;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    width: 240px;
+    margin-top: 20px;
+    
+}
+.prducts{
+    text-align: center;
+    
+}
+.details{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
